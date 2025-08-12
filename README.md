@@ -1,6 +1,4 @@
-Here’s a concise **README** without mentioning MAX30102:
 
----
 
 # Wearable Health Monitoring Device
 
